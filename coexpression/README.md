@@ -22,7 +22,7 @@ Juan A. Botía et al: doi: https://doi.org/10.1101/288845 (preprint)
 
 ·      locally
 
-·      python coexpression/Coexpression_Wiki_Locus_Browser.py
+·      python '''coexpression/Coexpression_Wiki_Locus_Browser.py'''
 
 #### INPUT
 
