@@ -22,11 +22,11 @@ Juan A. Botía et al: doi: https://doi.org/10.1101/288845 (preprint)
 
 ·      locally
 
-·      python '''coexpression/Coexpression_Wiki_Locus_Browser.py'''
+·      python ```coexpression/Coexpression_Wiki_Locus_Browser.py```
 
 #### INPUT
 
-·      a genes_by_locus.csv file in the parent directory containing all genes of interest and their locus number
+·      a ```genes_by_locus.csv``` file in the parent directory containing all genes of interest and their locus number
 
 ·      a G2PMLData4IPDGC.csv in the parent directory containing the columns gene, ExprSpecificTISSUE, AdjSpecificAdjTISSUE and RankedMMSpecificRankMMTISSUE
 
