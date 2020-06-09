@@ -28,9 +28,9 @@ Juan A. Botía et al: doi: https://doi.org/10.1101/288845 (preprint)
 
 ·      a ```genes_by_locus.csv``` file in the parent directory containing all genes of interest and their locus number
 
-·      a G2PMLData4IPDGC.csv in the parent directory containing the columns gene, ExprSpecificTISSUE, AdjSpecificAdjTISSUE and RankedMMSpecificRankMMTISSUE
+·      a ```G2PMLData4IPDGC.csv``` in the parent directory containing the columns gene, ExprSpecificTISSUE, AdjSpecificAdjTISSUE and RankedMMSpecificRankMMTISSUE
 
 #### OUTPUT
 
-·      a Genes_g2pml_present_genes_by_locus.csv file in the parent directory containing the columns GENE, GWAS, LOC_NUM, TISSUE Expression, TISSUE Adjacency and TISSUE Module Membership grouped for each tissue
+·      a ```Genes_g2pml_present_genes_by_locus.csv``` file in the parent directory containing the columns GENE, GWAS, LOC_NUM, TISSUE Expression, TISSUE Adjacency and TISSUE Module Membership grouped for each tissue
 
