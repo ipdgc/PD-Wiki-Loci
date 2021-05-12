@@ -14,10 +14,11 @@ Assigned to: Frank Grenn
 ### 3) Variant Power Calculations
 Assigned to: Eric Yu
 
-### 4) Gene Expression in AMP-PD Cases vs Controls
+### 4) Literature section update
+Assinged to: Eric Yu
+
+### 5) Gene Expression in AMP-PD Cases vs Controls
 Assinged to: Ana Luisa and Ruifeng Hu
-
-
 
 
 
