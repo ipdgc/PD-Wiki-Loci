@@ -1,4 +1,4 @@
-Only 2176 genes were mapped the AMP-PD expression data. 
+Only 2176 genes were mapped to the AMP-PD expression data. 
 
 In the short version folder, uncompress the tsv file, then run the python script directly. It will generate the violin plots for the genes
 
